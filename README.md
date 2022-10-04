@@ -1,3 +1,3 @@
 <h1 align="center">
-Build Time Report and Project Size
+Build Time and Project Size Report
 </h1>
